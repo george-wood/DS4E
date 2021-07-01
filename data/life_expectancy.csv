@@ -1,184 +1,184 @@
-Country,Year,Status,Life expectancy,Polio,Health expenditure,Population
-Afghanistan,2012,Developing,59.5,67,8.52,3696958
-Albania,2012,Developing,76.9,99,5.59,2941
-Algeria,2012,Developing,75.1,95,6.14,37565847
-Angola,2012,Developing,56,75,3.3,259615
-Antigua and Barbuda,2012,Developing,75.9,97,5.39,NA
-Argentina,2012,Developing,75.9,99,5.2,4296739
-Armenia,2012,Developing,74.4,96,4.48,2881922
-Australia,2012,Developed,82.3,92,9.36,22728254
-Austria,2012,Developed,88,92,11.17,8429991
-Azerbaijan,2012,Developing,71.9,92,5.37,9295784
-Bahamas,2012,Developing,74.9,99,7.43,NA
-Bahrain,2012,Developing,76.5,99,4.37,NA
-Bangladesh,2012,Developing,77,94,3.8,15572753
-Barbados,2012,Developing,75.1,88,7.43,NA
-Belarus,2012,Developing,71.9,98,5.1,9464495
-Belgium,2012,Developed,83,99,1.54,11128246
-Belize,2012,Developing,69.4,98,5.45,33671
-Benin,2012,Developing,59.3,8,4.86,972916
-Bhutan,2012,Developing,68.7,97,3.7,752967
-Bolivia (Plurinational State of),2012,Developing,69.8,93,5.56,NA
-Bosnia and Herzegovina,2012,Developing,76.8,87,9.94,36482
-Botswana,2012,Developing,63.4,96,6.27,289315
-Brazil,2012,Developing,74.5,96,8.26,256983
-Brunei Darussalam,2012,Developing,78.3,99,2.3,NA
-Bulgaria,2012,Developed,73.9,95,7.11,735888
-Burkina Faso,2012,Developing,58.6,9,5.33,16571216
-Burundi,2012,Developing,58,96,8.21,931971
-Côte d'Ivoire,2012,Developing,52,83,6.14,NA
-Cabo Verde,2012,Developing,72.7,94,4.61,513979
-Cambodia,2012,Developing,67.4,84,6.24,14776866
-Cameroon,2012,Developing,55.9,85,4.34,2182383
-Canada,2012,Developing,81.6,99,1.78,3475545
-Central African Republic,2012,Developing,53,47,3.62,449416
-Chad,2012,Developing,51.8,51,3,1275135
-Chile,2012,Developing,79.9,9,7.24,1739746
-China,2012,Developing,75.4,99,5.26,135695
-Colombia,2012,Developing,74.3,91,6.93,46881475
-Comoros,2012,Developing,62.5,85,7.11,723868
-Congo,2012,Developing,63.7,61,3.98,NA
-Costa Rica,2012,Developing,79.2,9,9.56,4654122
-Croatia,2012,Developed,77.1,96,7.8,4267558
-Cuba,2012,Developing,78.7,98,8.59,NA
-Cyprus,2012,Developed,80,99,7.44,113562
-Czechia,2012,Developed,78,99,7.55,NA
-Democratic People's Republic of Korea,2012,Developing,69.8,99,NA,NA
-Democratic Republic of the Congo,2012,Developing,58.3,76,3.77,NA
-Denmark,2012,Developed,80,94,1.98,5591572
-Djibouti,2012,Developing,62.2,81,8.95,881185
-Dominican Republic,2012,Developing,72.1,85,4.26,115495
-Ecuador,2012,Developing,75.5,85,6.48,15419666
-Egypt,2012,Developing,72,93,5.29,NA
-El Salvador,2012,Developing,73,93,6.7,6221246
-Equatorial Guinea,2012,Developing,56.7,3,4,138593
-Eritrea,2012,Developing,63.6,94,2.98,NA
-Estonia,2012,Developing,76.3,94,6.36,1322696
-Ethiopia,2012,Developing,63.3,7,5.77,92444183
-Fiji,2012,Developing,69.4,99,4.16,873596
-Finland,2012,Developing,84,99,9.3,5413971
-France,2012,Developing,81.5,99,11.44,6565979
-Gabon,2012,Developing,63.5,8,3.13,1756817
-Gambia,2012,Developing,62,98,6.12,NA
-Georgia,2012,Developing,74.2,93,8.57,3825
-Germany,2012,Developed,86,94,1.99,8425823
-Ghana,2012,Developing,61.6,91,4.79,2573349
-Greece,2012,Developing,84,99,9.24,114511
-Grenada,2012,Developing,73.1,98,6.36,NA
-Guatemala,2012,Developing,71.3,94,6.33,1527156
-Guinea,2012,Developing,58.4,63,5.39,11281469
-Guinea-Bissau,2012,Developing,57.6,87,5.96,1638139
-Guyana,2012,Developing,65.8,97,6.57,75391
-Haiti,2012,Developing,62.3,67,9.88,128921
-Honduras,2012,Developing,74.1,97,9.78,855646
-Hungary,2012,Developed,75,99,7.74,992362
-Iceland,2012,Developed,82.5,89,8.68,32716
-India,2012,Developing,67.3,79,4.39,126365852
-Indonesia,2012,Developing,68.5,84,2.9,248883232
-Iran (Islamic Republic of),2012,Developing,75.1,99,6.98,NA
-Iraq,2012,Developing,76,7,5.26,32776571
-Ireland,2012,Developed,85,95,8.32,4586897
-Israel,2012,Developing,81.8,94,7.73,7915
-Italy,2012,Developed,82,96,9.28,59539717
-Jamaica,2012,Developing,75.3,96,5.66,284992
-Japan,2012,Developed,83.3,99,1.17,127629
-Jordan,2012,Developing,73.7,98,8,7992573
-Kazakhstan,2012,Developing,69.1,98,4.32,16791425
-Kenya,2012,Developing,62.1,94,5.49,43646629
-Kiribati,2012,Developing,65.7,92,1.37,16613
-Kuwait,2012,Developing,74.3,98,2.57,NA
-Kyrgyzstan,2012,Developing,69.9,94,6.97,NA
-Lao People's Democratic Republic,2012,Developing,64.4,78,2.12,NA
-Latvia,2012,Developed,73.8,91,5.91,234319
-Lebanon,2012,Developing,75,75,6.99,491644
-Lesotho,2012,Developing,52.2,93,11.14,289928
-Liberia,2012,Developing,67,8,1.19,4181563
-Libya,2012,Developing,72.9,98,4.3,NA
-Lithuania,2012,Developed,73,93,6.67,2987773
-Luxembourg,2012,Developed,81.1,99,7.18,53946
-Madagascar,2012,Developing,64.3,71,3.46,22346573
-Malawi,2012,Developing,55.3,95,12.6,169735
-Malaysia,2012,Developing,74.5,97,4.1,2917456
-Maldives,2012,Developing,77.6,99,9.16,385
-Mali,2012,Developing,57.2,72,6.47,16667
-Malta,2012,Developed,81,99,9.95,419455
-Mauritania,2012,Developing,62.5,8,3.36,383239
-Mauritius,2012,Developing,73.9,98,4.76,1255882
-Mexico,2012,Developing,76.3,99,6.21,1282837
-Micronesia (Federated States of),2012,Developing,69,81,12.77,NA
-Mongolia,2012,Developing,67.8,99,4.22,2814226
-Montenegro,2012,Developing,75.6,94,7.25,6261
-Morocco,2012,Developing,73.6,99,6.15,33333789
-Mozambique,2012,Developing,54.8,73,5.58,2567666
-Myanmar,2012,Developing,65.9,87,2.22,5986514
-Namibia,2012,Developing,65.8,84,8.24,2263934
-Nepal,2012,Developing,68.9,9,5.89,27649925
-Netherlands,2012,Developed,81.1,97,11.1,16754962
-New Zealand,2012,Developed,81.1,93,11.53,NA
-Nicaragua,2012,Developing,73.9,99,8.4,587718
-Niger,2012,Developing,63,71,6.11,17731634
-Nigeria,2012,Developing,52.7,42,3.3,167297284
-Norway,2012,Developed,81.3,95,9.16,518573
-Oman,2012,Developing,76,99,2.52,NA
-Pakistan,2012,Developing,65.7,72,2.76,177911533
-Panama,2012,Developing,77.2,87,7.25,3772938
-Papua New Guinea,2012,Developing,62.2,81,4.55,743836
-Paraguay,2012,Developing,73.6,83,1.33,6379219
-Peru,2012,Developing,74.9,94,5.18,3158966
-Philippines,2012,Developing,68.1,88,4.46,96866642
-Poland,2012,Developed,76.8,95,6.62,3863164
-Portugal,2012,Developed,83,98,9.74,1514844
-Qatar,2012,Developing,77.8,93,2.16,NA
-Republic of Korea,2012,Developing,81.2,99,7.1,NA
-Republic of Moldova,2012,Developing,79,92,11.87,NA
-Romania,2012,Developed,74.4,92,5.48,25835
-Russian Federation,2012,Developing,69.6,98,6.88,14321676
-Rwanda,2012,Developing,64.6,98,7.68,1788853
-Saint Lucia,2012,Developing,74.7,98,8.35,NA
-Saint Vincent and the Grenadines,2012,Developing,72.8,96,8.48,NA
-Samoa,2012,Developing,73.2,62,5.2,189194
-Sao Tome and Principe,2012,Developing,66.9,96,8.6,182889
-Saudi Arabia,2012,Developing,74.1,98,3.86,NA
-Senegal,2012,Developing,65.6,83,4.31,1373513
-Serbia,2012,Developing,74.9,93,9.89,719977
-Seychelles,2012,Developing,72.7,98,4.8,8833
-Sierra Leone,2012,Developing,49.7,91,11.24,676613
-Singapore,2012,Developed,82.5,97,4.22,NA
-Slovakia,2012,Developed,75.8,99,8.15,NA
-Slovenia,2012,Developed,82,96,9.37,257159
-Solomon Islands,2012,Developing,68.7,99,5.48,551531
-Somalia,2012,Developing,53.1,47,NA,NA
-South Africa,2012,Developing,59.2,65,8.79,5256515.8
-South Sudan,2012,Developing,56,64,2.77,1818258
-Spain,2012,Developed,82,97,9.39,4677355
-Sri Lanka,2012,Developing,74.5,99,3.21,2425
-Sudan,2012,Developing,63.2,92,8.2,3599192
-Suriname,2012,Developing,71.3,84,6.9,53777
-Swaziland,2012,Developing,56.5,92,8.76,1248158
-Sweden,2012,Developed,81.7,98,11.8,9519374
-Switzerland,2012,Developed,82.7,96,11.59,7996861
-Syrian Arab Republic,2012,Developing,62.8,47,3.25,24271
-Tajikistan,2012,Developing,68.8,96,6.39,799562
-Thailand,2012,Developing,74.3,99,4.17,67843979
-The former Yugoslav republic of Macedonia,2012,Developing,75.1,97,6.76,NA
-Timor-Leste,2012,Developing,67.4,83,1.1,115676
-Togo,2012,Developing,58.9,84,5.11,6859482
-Tonga,2012,Developing,73,79,4.51,14951
-Trinidad and Tobago,2012,Developing,78,91,5.78,1341588
-Tunisia,2012,Developing,74.9,97,7.18,1886668
-Turkey,2012,Developing,74.8,97,5.24,74569867
-Turkmenistan,2012,Developing,65.6,98,1.96,5267839
-Uganda,2012,Developing,60,82,7.58,3636796
-Ukraine,2012,Developing,77,72,7.47,455933
-United Arab Emirates,2012,Developing,76.5,96,3.45,NA
-United Kingdom of Great Britain and Northern Ireland,2012,Developed,86,95,9.41,NA
-United Republic of Tanzania,2012,Developing,58.6,9,5.72,NA
-United States of America,2012,Developed,78.8,93,17.2,NA
-Uruguay,2012,Developing,76.5,95,8.74,3396777
-Uzbekistan,2012,Developing,68.8,99,6.49,297745
-Vanuatu,2012,Developing,71.4,65,3.7,247485
-Venezuela (Bolivarian Republic of),2012,Developing,73.7,73,4.8,NA
-Viet Nam,2012,Developing,75.6,97,6.96,NA
-Yemen,2012,Developing,64.7,68,5.73,NA
-Zambia,2012,Developing,59.2,7,4.91,14699937
-Zimbabwe,2012,Developing,56.6,95,6.69,1471826
+Country,Year,Life expectancy,Polio,Health expenditure,Population
+Afghanistan,2012,59.5,67,8.52,3696958
+Albania,2012,76.9,99,5.59,2941
+Algeria,2012,75.1,95,6.14,37565847
+Angola,2012,56,75,3.3,259615
+Antigua and Barbuda,2012,75.9,97,5.39,NA
+Argentina,2012,75.9,99,5.2,4296739
+Armenia,2012,74.4,96,4.48,2881922
+Australia,2012,82.3,92,9.36,22728254
+Austria,2012,88,92,11.17,8429991
+Azerbaijan,2012,71.9,92,5.37,9295784
+Bahamas,2012,74.9,99,7.43,NA
+Bahrain,2012,76.5,99,4.37,NA
+Bangladesh,2012,77,94,3.8,15572753
+Barbados,2012,75.1,88,7.43,NA
+Belarus,2012,71.9,98,5.1,9464495
+Belgium,2012,83,99,1.54,11128246
+Belize,2012,69.4,98,5.45,33671
+Benin,2012,59.3,8,4.86,972916
+Bhutan,2012,68.7,97,3.7,752967
+Bolivia (Plurinational State of),2012,69.8,93,5.56,NA
+Bosnia and Herzegovina,2012,76.8,87,9.94,36482
+Botswana,2012,63.4,96,6.27,289315
+Brazil,2012,74.5,96,8.26,256983
+Brunei Darussalam,2012,78.3,99,2.3,NA
+Bulgaria,2012,73.9,95,7.11,735888
+Burkina Faso,2012,58.6,9,5.33,16571216
+Burundi,2012,58,96,8.21,931971
+Côte d'Ivoire,2012,52,83,6.14,NA
+Cabo Verde,2012,72.7,94,4.61,513979
+Cambodia,2012,67.4,84,6.24,14776866
+Cameroon,2012,55.9,85,4.34,2182383
+Canada,2012,81.6,99,1.78,3475545
+Central African Republic,2012,53,47,3.62,449416
+Chad,2012,51.8,51,3,1275135
+Chile,2012,79.9,9,7.24,1739746
+China,2012,75.4,99,5.26,135695
+Colombia,2012,74.3,91,6.93,46881475
+Comoros,2012,62.5,85,7.11,723868
+Congo,2012,63.7,61,3.98,NA
+Costa Rica,2012,79.2,9,9.56,4654122
+Croatia,2012,77.1,96,7.8,4267558
+Cuba,2012,78.7,98,8.59,NA
+Cyprus,2012,80,99,7.44,113562
+Czechia,2012,78,99,7.55,NA
+Democratic People's Republic of Korea,2012,69.8,99,NA,NA
+Democratic Republic of the Congo,2012,58.3,76,3.77,NA
+Denmark,2012,80,94,1.98,5591572
+Djibouti,2012,62.2,81,8.95,881185
+Dominican Republic,2012,72.1,85,4.26,115495
+Ecuador,2012,75.5,85,6.48,15419666
+Egypt,2012,72,93,5.29,NA
+El Salvador,2012,73,93,6.7,6221246
+Equatorial Guinea,2012,56.7,3,4,138593
+Eritrea,2012,63.6,94,2.98,NA
+Estonia,2012,76.3,94,6.36,1322696
+Ethiopia,2012,63.3,7,5.77,92444183
+Fiji,2012,69.4,99,4.16,873596
+Finland,2012,84,99,9.3,5413971
+France,2012,81.5,99,11.44,6565979
+Gabon,2012,63.5,8,3.13,1756817
+Gambia,2012,62,98,6.12,NA
+Georgia,2012,74.2,93,8.57,3825
+Germany,2012,86,94,1.99,8425823
+Ghana,2012,61.6,91,4.79,2573349
+Greece,2012,84,99,9.24,114511
+Grenada,2012,73.1,98,6.36,NA
+Guatemala,2012,71.3,94,6.33,1527156
+Guinea,2012,58.4,63,5.39,11281469
+Guinea-Bissau,2012,57.6,87,5.96,1638139
+Guyana,2012,65.8,97,6.57,75391
+Haiti,2012,62.3,67,9.88,128921
+Honduras,2012,74.1,97,9.78,855646
+Hungary,2012,75,99,7.74,992362
+Iceland,2012,82.5,89,8.68,32716
+India,2012,67.3,79,4.39,126365852
+Indonesia,2012,68.5,84,2.9,248883232
+Iran (Islamic Republic of),2012,75.1,99,6.98,NA
+Iraq,2012,76,7,5.26,32776571
+Ireland,2012,85,95,8.32,4586897
+Israel,2012,81.8,94,7.73,7915
+Italy,2012,82,96,9.28,59539717
+Jamaica,2012,75.3,96,5.66,284992
+Japan,2012,83.3,99,1.17,127629
+Jordan,2012,73.7,98,8,7992573
+Kazakhstan,2012,69.1,98,4.32,16791425
+Kenya,2012,62.1,94,5.49,43646629
+Kiribati,2012,65.7,92,1.37,16613
+Kuwait,2012,74.3,98,2.57,NA
+Kyrgyzstan,2012,69.9,94,6.97,NA
+Lao People's Democratic Republic,2012,64.4,78,2.12,NA
+Latvia,2012,73.8,91,5.91,234319
+Lebanon,2012,75,75,6.99,491644
+Lesotho,2012,52.2,93,11.14,289928
+Liberia,2012,67,8,1.19,4181563
+Libya,2012,72.9,98,4.3,NA
+Lithuania,2012,73,93,6.67,2987773
+Luxembourg,2012,81.1,99,7.18,53946
+Madagascar,2012,64.3,71,3.46,22346573
+Malawi,2012,55.3,95,12.6,169735
+Malaysia,2012,74.5,97,4.1,2917456
+Maldives,2012,77.6,99,9.16,385
+Mali,2012,57.2,72,6.47,16667
+Malta,2012,81,99,9.95,419455
+Mauritania,2012,62.5,8,3.36,383239
+Mauritius,2012,73.9,98,4.76,1255882
+Mexico,2012,76.3,99,6.21,1282837
+Micronesia (Federated States of),2012,69,81,12.77,NA
+Mongolia,2012,67.8,99,4.22,2814226
+Montenegro,2012,75.6,94,7.25,6261
+Morocco,2012,73.6,99,6.15,33333789
+Mozambique,2012,54.8,73,5.58,2567666
+Myanmar,2012,65.9,87,2.22,5986514
+Namibia,2012,65.8,84,8.24,2263934
+Nepal,2012,68.9,9,5.89,27649925
+Netherlands,2012,81.1,97,11.1,16754962
+New Zealand,2012,81.1,93,11.53,NA
+Nicaragua,2012,73.9,99,8.4,587718
+Niger,2012,63,71,6.11,17731634
+Nigeria,2012,52.7,42,3.3,167297284
+Norway,2012,81.3,95,9.16,518573
+Oman,2012,76,99,2.52,NA
+Pakistan,2012,65.7,72,2.76,177911533
+Panama,2012,77.2,87,7.25,3772938
+Papua New Guinea,2012,62.2,81,4.55,743836
+Paraguay,2012,73.6,83,1.33,6379219
+Peru,2012,74.9,94,5.18,3158966
+Philippines,2012,68.1,88,4.46,96866642
+Poland,2012,76.8,95,6.62,3863164
+Portugal,2012,83,98,9.74,1514844
+Qatar,2012,77.8,93,2.16,NA
+Republic of Korea,2012,81.2,99,7.1,NA
+Republic of Moldova,2012,79,92,11.87,NA
+Romania,2012,74.4,92,5.48,25835
+Russian Federation,2012,69.6,98,6.88,14321676
+Rwanda,2012,64.6,98,7.68,1788853
+Saint Lucia,2012,74.7,98,8.35,NA
+Saint Vincent and the Grenadines,2012,72.8,96,8.48,NA
+Samoa,2012,73.2,62,5.2,189194
+Sao Tome and Principe,2012,66.9,96,8.6,182889
+Saudi Arabia,2012,74.1,98,3.86,NA
+Senegal,2012,65.6,83,4.31,1373513
+Serbia,2012,74.9,93,9.89,719977
+Seychelles,2012,72.7,98,4.8,8833
+Sierra Leone,2012,49.7,91,11.24,676613
+Singapore,2012,82.5,97,4.22,NA
+Slovakia,2012,75.8,99,8.15,NA
+Slovenia,2012,82,96,9.37,257159
+Solomon Islands,2012,68.7,99,5.48,551531
+Somalia,2012,53.1,47,NA,NA
+South Africa,2012,59.2,65,8.79,5256515.8
+South Sudan,2012,56,64,2.77,1818258
+Spain,2012,82,97,9.39,4677355
+Sri Lanka,2012,74.5,99,3.21,2425
+Sudan,2012,63.2,92,8.2,3599192
+Suriname,2012,71.3,84,6.9,53777
+Swaziland,2012,56.5,92,8.76,1248158
+Sweden,2012,81.7,98,11.8,9519374
+Switzerland,2012,82.7,96,11.59,7996861
+Syrian Arab Republic,2012,62.8,47,3.25,24271
+Tajikistan,2012,68.8,96,6.39,799562
+Thailand,2012,74.3,99,4.17,67843979
+The former Yugoslav republic of Macedonia,2012,75.1,97,6.76,NA
+Timor-Leste,2012,67.4,83,1.1,115676
+Togo,2012,58.9,84,5.11,6859482
+Tonga,2012,73,79,4.51,14951
+Trinidad and Tobago,2012,78,91,5.78,1341588
+Tunisia,2012,74.9,97,7.18,1886668
+Turkey,2012,74.8,97,5.24,74569867
+Turkmenistan,2012,65.6,98,1.96,5267839
+Uganda,2012,60,82,7.58,3636796
+Ukraine,2012,77,72,7.47,455933
+United Arab Emirates,2012,76.5,96,3.45,NA
+United Kingdom of Great Britain and Northern Ireland,2012,86,95,9.41,NA
+United Republic of Tanzania,2012,58.6,9,5.72,NA
+United States of America,2012,78.8,93,17.2,NA
+Uruguay,2012,76.5,95,8.74,3396777
+Uzbekistan,2012,68.8,99,6.49,297745
+Vanuatu,2012,71.4,65,3.7,247485
+Venezuela (Bolivarian Republic of),2012,73.7,73,4.8,NA
+Viet Nam,2012,75.6,97,6.96,NA
+Yemen,2012,64.7,68,5.73,NA
+Zambia,2012,59.2,7,4.91,14699937
+Zimbabwe,2012,56.6,95,6.69,1471826
